@@ -1,0 +1,51 @@
+.container {
+    font-family: arial;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mini {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.profile-picture {
+    height: 35px;
+    width: 35px;
+    border-radius: 18px;
+    object-fit: cover;
+}
+
+.name {
+    flex: 1;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.button-1 {
+    font-weight: bold;
+    background-color: rgba(82, 82, 227, 0.961);
+    color: white;
+    border: none;
+    padding: 8px 15px 8px 15px;
+    border-radius: 6px;
+}
+
+.button-2 {
+    background-color: rgb(225, 221, 221);
+    border: none;
+    font-weight: bold;
+    padding: 8px 15px 8px 15px;
+    border-radius: 6px;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding: 10px 50px 10px 50px;
+}

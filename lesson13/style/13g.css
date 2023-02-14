@@ -1,0 +1,77 @@
+div {
+    font-family: arial;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 420px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.profile {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    object-position: left;
+    margin-bottom: 5px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}
+
+.name {
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.gmail {
+    color: grey;
+}
+
+.sub {
+    font-size: 16px;
+    padding-bottom: 15px;
+    line-height: 22px;
+}
+
+.border {
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(202, 200, 200);
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 350;
+    border-radius: 15px;
+    overflow: hidden;
+    align-items: center;
+}
+
+.background {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    background-color: rgb(230, 230, 230);
+}
+
+.link {
+    flex: 1;
+}
+
+.subscription {
+    line-height: 22px;
+    color: rgb(128, 128, 128);
+    margin-bottom: 3px;
+}

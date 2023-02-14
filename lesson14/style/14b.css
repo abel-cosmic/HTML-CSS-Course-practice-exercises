@@ -1,0 +1,46 @@
+.sticker {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    background-color: green;
+    color: white;
+}
+
+body {
+    height: 3000px;
+}
+
+.container {
+    font-family: arial;
+    display: inline-block;
+    flex-direction: column;
+    width: 300px;
+    height: 92px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 3px;
+}
+
+.overlay {
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.description {
+    margin-bottom: 12px;
+}

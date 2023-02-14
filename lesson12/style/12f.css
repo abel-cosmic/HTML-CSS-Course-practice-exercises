@@ -1,0 +1,38 @@
+div {
+    font-family: Arial;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    background-color: rgb(120, 82, 178);
+    align-items: center;
+    justify-content: space-between;
+    padding: auto 15 auto 15;
+}
+
+.Home {
+    font-weight: bold;
+}
+
+.search {
+    border: none;
+    width: 500px;
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 30px;
+}
+
+button {
+    font-size: 16px;
+    border-width: 1px;
+    color: white;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: white;
+    background-color: transparent;
+    padding: 8px 15px 8px 15px;
+}

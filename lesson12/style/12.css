@@ -1,0 +1,57 @@
+.box-12a {
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 20px 0;
+}
+
+.a-item1 {
+    width: 200px;
+}
+
+.a-item2 {
+    width: 75px;
+}
+
+.color-pink {
+    background-color: lightpink;
+}
+
+.color-blue {
+    background-color: lightblue;
+}
+
+.box-12b {
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 20px 0;
+}
+
+.b-item1 {
+    width: 50px;
+}
+
+.b-item2 {
+    flex: 1;
+}
+
+.b-item3 {
+    width: 75px;
+}
+
+.box-12c {
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 20px 0;
+    justify-content: space-between;
+}
+
+.box-12d {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    border: 1px;
+    border-style: solid;
+    border-color: gray;
+    align-items: center;
+    justify-content: space-between;
+}

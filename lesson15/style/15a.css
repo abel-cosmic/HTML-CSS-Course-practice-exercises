@@ -1,0 +1,14 @@
+button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+    background-color: black;
+    color: white;
+}
+
+body {
+    height: 3000px;
+}
