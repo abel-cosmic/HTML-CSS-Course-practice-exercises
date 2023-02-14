@@ -1,0 +1,25 @@
+p,
+button {
+    font-family: arial;
+    color: rgb(100, 100, 100);
+}
+
+.email-text {
+    margin-bottom: 10px;
+}
+
+.type {
+    padding: 10px;
+    width: 380px;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.join-button {
+    background-color: rgb(10, 102, 194);
+    border: none;
+    width: 400px;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+}

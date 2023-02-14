@@ -1,0 +1,60 @@
+.link-a {
+    color: rgb(0, 113, 133);
+}
+
+.link-a:hover {
+    color: rgb(255, 164, 28);
+}
+
+.link-a:active {
+    opacity: 0.8;
+}
+
+.shoes-p {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.stock-p {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+.add-button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    height: 28px;
+    width: 105px;
+    border-radius: 45px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.add-button:hover {
+    background-color: rgb(203, 172, 14)
+}
+
+.add-button:active {
+    opacity: 0.8;
+}
+
+.buy-button {
+    background-color: rgb(255, 164, 28);
+    color: black;
+    height: 28px;
+    width: 105px;
+    border-radius: 45px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.buy-button:hover {
+    background-color: rgb(202, 126, 11);
+}
+
+.buy-button:active {
+    opacity: 0.8;
+}

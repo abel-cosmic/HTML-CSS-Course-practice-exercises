@@ -1,0 +1,19 @@
+.box {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.main {
+    font-weight: bold;
+    padding-bottom: 0;
+}
+
+.sub {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+}

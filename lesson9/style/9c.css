@@ -1,0 +1,16 @@
+.index {
+    padding: 20px;
+    margin: 30px;
+    border-width: 1px;
+    border-style: solid;
+    font-weight: bold;
+    border-color: rgb(150, 150, 150);
+    width: 300px;
+}
+
+.our {
+    display: block;
+    font-family: arial;
+    font-weight: bold;
+    padding-bottom: 20px;
+}

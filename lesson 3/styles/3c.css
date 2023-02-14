@@ -1,0 +1,19 @@
+.Sign_up-button {
+    color: white;
+    background-color: rgb(46, 164, 79);
+    border: none;
+    border-radius: 4px;
+    height: 35px;
+    width: 100px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: box-shadow 0.15s, active 0.15s;
+}
+
+.Sign_up-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.Sign_up-button:active {
+    opacity: 0.8;
+}

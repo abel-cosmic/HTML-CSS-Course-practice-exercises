@@ -1,0 +1,19 @@
+p {
+    font-family: Arial;
+    text-align: center;
+}
+
+.Market-title {
+    font-weight: bolder;
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+
+.Apple-subtitle {
+    font-size: 13px;
+}
+
+.more-link {
+    color: rgb(163, 148, 252);
+    font-size: 12px;
+}
